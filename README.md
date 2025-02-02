@@ -1,2 +1,3 @@
 # stats
-Stats
+Stats:
+Only managed by aric.codes (@discord)
